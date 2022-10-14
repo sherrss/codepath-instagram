@@ -141,13 +141,13 @@
                                                     </constraints>
                                                 </imageView>
                                                 <label opaque="NO" userInteractionEnabled="NO" contentMode="left" verticalHuggingPriority="251" text="this is my caption" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="XR3-ZS-IBu">
-                                                    <rect key="frame" x="71" y="345.66666666666669" width="291" height="20.333333333333314"/>
+                                                    <rect key="frame" x="87" y="345.66666666666669" width="275" height="20.333333333333314"/>
                                                     <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                                     <nil key="textColor"/>
                                                     <nil key="highlightedColor"/>
                                                 </label>
                                                 <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Sherry" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="PFA-cm-hYG">
-                                                    <rect key="frame" x="12" y="345.66666666666669" width="51" height="20.333333333333314"/>
+                                                    <rect key="frame" x="28" y="345.66666666666669" width="51" height="20.333333333333314"/>
                                                     <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                                     <nil key="textColor"/>
                                                     <nil key="highlightedColor"/>
@@ -163,7 +163,7 @@
                                                 <constraint firstItem="PFA-cm-hYG" firstAttribute="centerY" secondItem="XR3-ZS-IBu" secondAttribute="centerY" id="bEh-hl-L7t"/>
                                                 <constraint firstItem="XR3-ZS-IBu" firstAttribute="leading" secondItem="PFA-cm-hYG" secondAttribute="trailing" constant="8" id="iic-lA-PGy"/>
                                                 <constraint firstAttribute="trailingMargin" secondItem="XR3-ZS-IBu" secondAttribute="trailing" constant="8" id="mzc-zl-U6C"/>
-                                                <constraint firstItem="PFA-cm-hYG" firstAttribute="leading" secondItem="sXO-fN-38t" secondAttribute="leadingMargin" constant="-8" id="vjg-Mf-bbS"/>
+                                                <constraint firstItem="PFA-cm-hYG" firstAttribute="leading" secondItem="sXO-fN-38t" secondAttribute="leadingMargin" constant="8" id="vjg-Mf-bbS"/>
                                                 <constraint firstAttribute="bottomMargin" relation="greaterThanOrEqual" secondItem="XR3-ZS-IBu" secondAttribute="bottom" constant="8" id="wMY-kH-6KX"/>
                                                 <constraint firstItem="XR3-ZS-IBu" firstAttribute="top" secondItem="kFm-WL-QYU" secondAttribute="bottom" constant="8" id="wZ5-gS-kaI"/>
                                             </constraints>
